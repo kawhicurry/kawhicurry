@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kawhicurry/kawhicurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+### Hi, I'm KawhiCurry.
+
+⚡ My skills:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,8 +36,13 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+🌱 My efforts:
+
 [![](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia)]()
 [![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia)]()
+
+💬 [My Blog](https://kawhicurry.github.io):
+
 <!-- BLOG-POST-LIST:START -->
 - [重学linux（12）](https://kawhicurry.github.io/ed9800f/)
 - [重学linux（11）](https://kawhicurry.github.io/1c6c2fe1/)
@@ -44,5 +51,8 @@ Here are some ideas to get you started:
 - [重学linux（8）](https://kawhicurry.github.io/321e6efa/)
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on [Robocup2D](https://rcsoccersim.github.io/)
-- 🌱 I’m currently learning Cpp,Linux
+🔭 My work:
+
+- [Robocup2D](https://rcsoccersim.github.io/)
+- [Cpp](https://en.cppreference.com/)
+- [Linux](https://linux.vbird.org/)
