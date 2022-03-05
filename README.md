@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia)]()
 [![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia)]()
 <!-- BLOG-POST-LIST:START -->
+- [重学linux（12）](https://kawhicurry.github.io/ed9800f/)
+- [重学linux（11）](https://kawhicurry.github.io/1c6c2fe1/)
+- [重学linux（10）](https://kawhicurry.github.io/a4d04884/)
+- [重学linux（9）](https://kawhicurry.github.io/8aa2099f/)
+- [重学linux（8）](https://kawhicurry.github.io/321e6efa/)
 <!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on [Robocup2D](https://rcsoccersim.github.io/)
