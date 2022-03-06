@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [重学linux（13）](https://kawhicurry.github.io/b665e76a/)
 - [重学linux（12）](https://kawhicurry.github.io/ed9800f/)
 - [重学linux（11）](https://kawhicurry.github.io/1c6c2fe1/)
 - [重学linux（10）](https://kawhicurry.github.io/a4d04884/)
 - [重学linux（9）](https://kawhicurry.github.io/8aa2099f/)
-- [重学linux（8）](https://kawhicurry.github.io/321e6efa/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
