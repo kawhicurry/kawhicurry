@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [vim小技巧（1）](https://kawhicurry.github.io/Tools/88cbcb44/)
+- [vim小技巧（0）](https://kawhicurry.github.io/Tools/3077ac21/)
 - [重学linux（14）](https://kawhicurry.github.io/Operation/2bb2dfd3/)
 - [重学linux（13）](https://kawhicurry.github.io/Operation/b665e76a/)
 - [重学linux（12）](https://kawhicurry.github.io/Operation/ed9800f/)
-- [重学linux（11）](https://kawhicurry.github.io/Operation/1c6c2fe1/)
-- [重学linux（10）](https://kawhicurry.github.io/Operation/a4d04884/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
