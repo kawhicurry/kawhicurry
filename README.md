@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [HFO-Trainer是如何写成的](https://kawhicurry.github.io/Project/660044d6/)
+- [effective（2）](https://kawhicurry.github.io/Language/b22d0090/)
 - [vim小技巧（2）](https://kawhicurry.github.io/Tools/9a7e64aa/)
 - [重学linux（17）](https://kawhicurry.github.io/Operation/3907703d/)
 - [重学linux（16）](https://kawhicurry.github.io/Operation/81bb1758/)
-- [重学linux（15）](https://kawhicurry.github.io/Operation/930eb8b6/)
-- [effective（1）](https://kawhicurry.github.io/Language/a098af7e/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
