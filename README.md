@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [effective（4）](https://kawhicurry.github.io/Language/97465f4c/)
 - [effective（3）](https://kawhicurry.github.io/Language/a9167f5/)
 - [又一次加入manjaro大家庭](https://kawhicurry.github.io/Daily/512f04dd/)
 - [Apollo2D组选拔测试系统（上）](https://kawhicurry.github.io/Project/99ae6e60/)
 - [HFO-Trainer是如何写成的](https://kawhicurry.github.io/Project/660044d6/)
-- [effective（2）](https://kawhicurry.github.io/Language/b22d0090/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
