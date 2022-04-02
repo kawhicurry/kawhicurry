@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [effective（6）](https://kawhicurry.github.io/Language/3d4f97c7/)
 - [effective（5）](https://kawhicurry.github.io/Language/2ffa3829/)
 - [effective（4）](https://kawhicurry.github.io/Language/97465f4c/)
 - [关于Apollo2D未来的一些思考](https://kawhicurry.github.io/Project/a8ec5d07/)
 - [effective（3）](https://kawhicurry.github.io/Language/a9167f5/)
-- [又一次加入manjaro大家庭](https://kawhicurry.github.io/Daily/512f04dd/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
