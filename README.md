@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [维护自己的AUR源](https://kawhicurry.github.io/Operation/8d703467/)
 - [WebSoccerMonitor](https://kawhicurry.github.io/Project/93340145/)
 - [APUE（1）](https://kawhicurry.github.io/Back-end/b3a615f1/)
 - [APUE（0）](https://kawhicurry.github.io/Back-end/b1a7294/)
 - [关于学习C++](https://kawhicurry.github.io/Daily/eb74c786/)
-- [effective（8）](https://kawhicurry.github.io/Language/dd90e0f4/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
