@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 🌱 My efforts:
 
 [![](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia)]()
-[![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia)]()
+[![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia&hide=Other)]()
 
 💬 [My Blog](https://kawhicurry.github.io):
 
