@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [关于我要坚持用linux的目的](https://kawhicurry.github.io/Daily/f4873e72/)
 - [建立linux下完善的个人备份系统](https://kawhicurry.github.io/Operation/63fa7eb5/)
 - [用树莓派搭建一个简单的跳板机](https://kawhicurry.github.io/Back-end/ace6f1b7/)
 - [折磨的ROS-in-arch（manjaro）](https://kawhicurry.github.io/Auto/b84eee2e/)
 - [APUE（2）](https://kawhicurry.github.io/Back-end/a113ba1f/)
-- [维护自己的AUR源](https://kawhicurry.github.io/Operation/8d703467/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My work:
