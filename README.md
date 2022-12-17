@@ -16,31 +16,23 @@ Here are some ideas to get you started:
 
 ### Hi, I'm KawhiCurry.
 
-⚡ My skills:
+I work as a `SRE` for [a team](https://www.qingyou.studio) which create infinite possibilities with love.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Intended to work for an cloud infrastructure team in the future.
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+⚡ My Skills:
 
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🌱 My efforts:
 
-[![](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia)](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia))
+🌱 My Efforts:
 
-[![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia&hide=Other)](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia&hide=Other)
+| [![](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia&hide_border=true)](https://github-readme-stats.vercel.app/api?username=kawhicurry&theme=algolia&hide_border=true) | [![kawhicurry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia&hide=Other&langs_count=5&hide_border=true)](https://github-readme-stats.vercel.app/api/wakatime?username=kawhicurry&theme=algolia&hide=Other&langs_count=5&hide_border=true)|
+| ------------- | ------------- |
 
 💬 [My Blog](https://kawhicurry.github.io):
 
@@ -52,9 +44,12 @@ Here are some ideas to get you started:
 - [折磨的ROS-in-arch（manjaro）](https://kawhicurry.github.io/Auto/b84eee2e/)
 <!-- BLOG-POST-LIST:END -->
 
-🔭 My work:
+🔭 My Interest:
+- Tech around [ebpf](https://ebpf.io/) like [cilium](https://cilium.io/), [libbpf](https://github.com/libbpf/libbpf).
+- Observability tools like [mimir](https://github.com/grafana/mimir), [loki](https://github.com/grafana/loki), [tempo](https://github.com/grafana/tempo), [phlare](https://github.com/grafana/phlare) and so on.
+- Better linux in PC, especially in [Arch Linux](https://archlinux.org/).
 
-- [Robocup2D](https://rcsoccersim.github.io/)
-- [Cpp](https://en.cppreference.com/)
-- [Linux](https://linux.vbird.org/)
-- [Qingyou](https://qingyou.ren/)
+👯 My Org:
+- [Qingyou](https://www.qingyou.studio/)
+- [NJUPT-Mirrors-Group](https://github.com/NJUPT-Mirrors-Group)
+- [Apollo2d](https://github.com/Apollo2d)
