@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 ### Hi, I'm KawhiCurry.
 
-I work as a `SRE` for [a team](https://www.qingyou.studio) which create infinite possibilities with love.
+I work as a `SRE` for [a team](https://qingyou.njupt.edu.cn) which create infinite possibilities with love.
 
 Intended to work for an cloud infrastructure team in the future.
+
+Maybe you'll be interested in my [resume](https://kawhicurry.github.io/resume).
 
 ⚡ My Skills:
 
