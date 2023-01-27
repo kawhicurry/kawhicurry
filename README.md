@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm KawhiCurry.
 
-I work as a `SRE` for [a team](https://qingyou.njupt.edu.cn) which create infinite possibilities with love.
+I work as an `SRE` for [a team](https://qingyou.njupt.edu.cn) which create infinite possibilities with love.
 
 Intended to work for an cloud infrastructure team in the future.
 
@@ -52,6 +52,6 @@ Maybe you'll be interested in my [resume](https://kawhicurry.github.io/resume).
 - Better linux in PC, especially in [Arch Linux](https://archlinux.org/).
 
 👯 My Org:
-- [Qingyou](https://www.qingyou.studio/)
+- [Qingyou](https://qingyou.njupt.edu.cn/)
 - [NJUPT-Mirrors-Group](https://github.com/NJUPT-Mirrors-Group)
 - [Apollo2d](https://github.com/Apollo2d)
