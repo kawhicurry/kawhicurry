@@ -39,11 +39,11 @@ Maybe you'll be interested in my [resume](https://kawhicurry.github.io/resume).
 💬 [My Blog](https://kawhicurry.github.io):
 
 <!-- BLOG-POST-LIST:START -->
-- [建立linux下完善的个人日志体系](https://kawhicurry.github.io/Operation/be400b19/)
-- [关于我要坚持用linux的目的](https://kawhicurry.github.io/Daily/f4873e72/)
+- [给飞扬哥的博客上传指南](https://kawhicurry.github.io/Tools/35816fcf/)
+- [Apollo2D项目回顾](https://kawhicurry.github.io/Auto/43a7b386/)
+- [ESP,GRUB与BTRFS](https://kawhicurry.github.io/Operation/8f58554d/)
+- [记录一次有趣的答辩经历](https://kawhicurry.github.io/Daily/c687b02a/)
 - [建立linux下完善的个人备份系统](https://kawhicurry.github.io/Operation/63fa7eb5/)
-- [用树莓派搭建一个简单的跳板机](https://kawhicurry.github.io/Back-end/ace6f1b7/)
-- [折磨的ROS-in-arch（manjaro）](https://kawhicurry.github.io/Auto/b84eee2e/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My Interest:
