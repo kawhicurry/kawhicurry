@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi, I'm KawhiCurry.
 
+- Working for an cloud company as an `SRE`.
 - Worked as an `SRE` for [a team](https://qingyou.njupt.edu.cn) which create infinite possibilities with love.
 - Trying to learn how internet works.
-- Will work for an cloud company as an `SRE`.
 - **Some say "software is eating the world", I would say that: "BPF is eating the software"**.
 
 <!-- Maybe you'll be interested in my [resume](https://kawhicurry.github.io/resume). -->
