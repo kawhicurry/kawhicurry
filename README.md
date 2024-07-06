@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io)(dynamically updating):
 
 <!-- BLOG-POST-LIST:START -->
+- [daily-2024-07-07](https://kawhicurry.github.io/Daily/41551188/)
 - [从tc开始的一次简单的内核网络栈探索](https://kawhicurry.github.io/Operation/47a3710b/)
 - [给飞扬哥的博客上传指南](https://kawhicurry.github.io/Tools/35816fcf/)
 - [Apollo2D项目回顾](https://kawhicurry.github.io/Auto/43a7b386/)
 - [ESP,GRUB与BTRFS](https://kawhicurry.github.io/Operation/8f58554d/)
-- [记录一次有趣的答辩经历](https://kawhicurry.github.io/Daily/c687b02a/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My Interest:
