@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [第一次LLM学习之旅](https://kawhicurry.github.io/AI/47184172/)
+- [lock教程](https://kawhicurry.github.io/Tools/undefined/)
 - [daily-2024-07-07](https://kawhicurry.github.io/Daily/41551188/)
 - [从tc开始的一次简单的内核网络栈探索](https://kawhicurry.github.io/Operation/Linux/47a3710b/)
 - [给飞扬哥的博客上传指南](https://kawhicurry.github.io/Tools/35816fcf/)
-- [Apollo2D项目回顾](https://kawhicurry.github.io/Auto/43a7b386/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My Interest:
