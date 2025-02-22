@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 💬 [My Blog](https://kawhicurry.github.io)(dynamically updating):
 
 <!-- BLOG-POST-LIST:START -->
-- [第一次LLM学习之旅](https://kawhicurry.github.io/AI/47184172/)
-- [自动化的讽刺](https://kawhicurry.github.io/Auto/6b018282/)
-- [lock教程](https://kawhicurry.github.io/Tools/undefined/)
-- [daily-2024-07-07](https://kawhicurry.github.io/Daily/41551188/)
-- [从tc开始的一次简单的内核网络栈探索](https://kawhicurry.github.io/Operation/Linux/47a3710b/)
+- [第一次LLM学习之旅](https://kawhicurry.online/AI/47184172/)
+- [自动化的讽刺](https://kawhicurry.online/Auto/6b018282/)
+- [lock教程](https://kawhicurry.online/Tools/undefined/)
+- [daily-2024-07-07](https://kawhicurry.online/Daily/41551188/)
+- [从tc开始的一次简单的内核网络栈探索](https://kawhicurry.online/Operation/Linux/47a3710b/)
 <!-- BLOG-POST-LIST:END -->
 
 🔭 My Interest:
