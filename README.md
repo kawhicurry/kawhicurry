@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [第一次LLM学习之旅](https://kawhicurry.online/AI/47184172/)
 - [自动化的讽刺](https://kawhicurry.online/Auto/6b018282/)
-- [lock教程](https://kawhicurry.online/Tools/undefined/)
+- [windoes中英文切换改为capslock教程](https://kawhicurry.online/Tools/45bb8011/)
 - [daily-2024-07-07](https://kawhicurry.online/Daily/41551188/)
 - [从tc开始的一次简单的内核网络栈探索](https://kawhicurry.online/Operation/Linux/47a3710b/)
 <!-- BLOG-POST-LIST:END -->
